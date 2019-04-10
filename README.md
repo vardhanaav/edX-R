@@ -91,8 +91,8 @@ sequ = seq(0, 100, 2) or c(seq(0, 100, 2))
 26. match(x, table) - return a vector of indices where x is first found in table
 	```sh
 	Eg: match('Africa', df$Region)
-		          |		    |
-		          |	       vector
+		      |	    	|
+		      |	      vector
 		    vector/value 
     ```
 
